@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/yvonnem111/four-card-feature/blob/main/four-card-feature-section-master/index.html)
+- Live Site URL: [Add live site URL here](https://htmlpreview.github.io/?https://github.com/yvonnem111/four-card-feature/blob/main/four-card-feature-section-master/index.html)
 
 ## My process
 
